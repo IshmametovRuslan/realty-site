@@ -9,3 +9,7 @@ Author: Russ
 Author URI: http://russweb.org/
 Version: 1.0
 */
+
+.bg-primary {
+	background-color: #ffedc8 !important;
+}
